@@ -35,9 +35,6 @@ Ric is a 2nd year graphic design student who is currently taking a 16 week Front
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ricj14"><img src=[(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)username=ricj14&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=64748b&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="ricj14's GitHub stats" /></a>
-  
-
 <a href="http://www.github.com/ricj14"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ricj14&bg_color=1c1917&color=64748b&line=ef4444&point=64748b&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/ricj14" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricj14&langs_count=10&title_color=84cc16&text_color=64748b&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
