@@ -35,9 +35,8 @@ Ric is a 2nd year graphic design student who is currently taking a 16 week Front
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ricj14"><img src=[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)username=ricj14&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=64748b&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="ricj14's GitHub stats" /></a>
-
-<a href="http://www.github.com/ricj14"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ricj14&stroke=64748b&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=64748b&currStreakLabel=84cc16&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+<a href="http://www.github.com/ricj14"><img src=[(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)username=ricj14&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=64748b&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="ricj14's GitHub stats" /></a>
+  
 
 <a href="http://www.github.com/ricj14"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ricj14&bg_color=1c1917&color=64748b&line=ef4444&point=64748b&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
